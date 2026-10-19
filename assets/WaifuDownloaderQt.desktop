@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=WaifuDownloaderQt
 Comment=Download random waifu/neko images from waifu.im and nekos.moe
-Exec=waifudownloader
+Exec=WaifuDownloader
 Icon=moe.nyarchlinux.waifudownloader
 Terminal=false
 Type=Application
