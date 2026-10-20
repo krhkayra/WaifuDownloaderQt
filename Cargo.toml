@@ -3,6 +3,12 @@ name = "WaifuDownloader"
 version = "3.0.0"
 edition = "2024"
 build = "build.rs"
+license = "GPL-3.0"
+homepage = "https://github.com/krhkayra/WaifuDownloaderQt"
+repository = "https://github.com/krhkayra/WaifuDownloaderQt"
+authors = [
+	"Kayra <https://github.com/krhkayra>"
+]
 
 [dependencies]
 slint = { version = "1.9", default-features = false, features = ["std", "backend-qt", "compat-1-2"] }
